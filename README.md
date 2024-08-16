@@ -37,21 +37,22 @@
 
 ###
 
-<h3 align="left">✉️ Contact Me!</h3>
 <div align="left">
-  <a href="https://discord.com/users/Ruffy66" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=White&labelColor=&style=for-the-badge&logoWidth=30" height="35" alt="discord logo" />
+  <a href="Ruffy66" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.twitch.tv/ruffy_joyboy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"  />
   </a>
   <a href="https://twitter.com/5thyonkoRuffy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge&logoWidth=30" height="35" alt="twitter logo" />
-  </a>
-  <a href="https://www.reddit.com/user/RuffyUchiha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge&logoWidth=30" height="35" alt="reddit logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
   <a href="https://codepen.io/RuffyUchiha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge&logoWidth=30" height="35" alt="codepen logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="47" height="35" alt="codepen logo"  />
   </a>
 </div>
+
+###
 
 ###
 
