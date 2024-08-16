@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm RuffyUchiha</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
-<h3 align="center">Here is my favorite Anime GIF:</h3>
 <p align="center">
   <img src="https://github.com/ruffyuchiha/ruffyuchiha/blob/main/assets/my-anime-gif.gif" alt="Anime GIF" />
 </p>
