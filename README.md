@@ -16,22 +16,22 @@
 ###
 
 <h3 align="left">🚀 A Bit About Me!</h3>
-<p align="left">I'm passionate about front-end development and love creating interactive and visually appealing web experiences. In my free time, I enjoy exploring new technologies and working on personal projects.</p>
+<p align="left" style="max-width: 600px; line-height: 1.6;">I'm passionate about front-end development and love creating interactive and visually appealing web experiences. In my free time, I enjoy exploring new technologies and working on personal projects. My goal is to build intuitive and responsive user interfaces that enhance user experiences and make the web a more enjoyable place.</p>
 
 ###
 
 <h3 align="left">💻 Languages & Tools I Use:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo" />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo" />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
 </div>
 
