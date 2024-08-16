@@ -40,7 +40,7 @@
 <h3 align="left">✉️ Contact Me!</h3>
 <div align="left">
   <a href="https://discord.com/users/Ruffy66" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=White&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="[https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=White&labelColor=&style=for-the-badge](https://cdn3.emoji.gg/emojis/3121-discord-earlysupporter.png)" height="35" alt="discord logo" />
   </a>
   <a href="https://twitter.com/5thyonkoRuffy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
