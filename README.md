@@ -40,16 +40,16 @@
 <h3 align="left">✉️ Contact Me!</h3>
 <div align="left">
   <a href="https://discord.com/users/Ruffy66" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=White&labelColor=&style=for-the-badge](https://cdn3.emoji.gg/emojis/3121-discord-earlysupporter.png)" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" />
   </a>
   <a href="https://twitter.com/5thyonkoRuffy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="twitter logo" />
   </a>
-  <a href="https://www.reddit.com/user/AMVZeref" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="reddit logo" />
+  <a href="https://www.reddit.com/user/RuffyUchiha" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="35" alt="reddit logo" />
   </a>
   <a href="https://codepen.io/RuffyUchiha" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo" />
+    <img src="https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=white" height="35" alt="codepen logo" />
   </a>
 </div>
 
