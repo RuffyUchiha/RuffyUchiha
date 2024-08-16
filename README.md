@@ -15,9 +15,6 @@
 
 ###
 
-<h3 align="left">🚀 A Bit About Me!</h3>
-<p align="left" style="max-width: 600px; line-height: 1.6;">I'm passionate about front-end development and love creating interactive and visually appealing web experiences. In my free time, I enjoy exploring new technologies and working on personal projects. My goal is to build intuitive and responsive user interfaces that enhance user experiences and make the web a more enjoyable place.</p>
-
 ###
 
 <h3 align="left">💻 Languages & Tools I Use:</h3>
