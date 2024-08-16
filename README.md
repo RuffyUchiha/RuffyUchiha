@@ -3,9 +3,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuffyUchiha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div>
-    <h2 align="left">Hi 👋! My name is Ruffy and I'm a front-end development enthusiast from Germany.</h2>
+<h2 align="left">Hi 👋! My name is Ruffy and I'm a front-end development enthusiast from Germany.</h2>
+
+<div style="display: flex; align-items: flex-start; margin-top: 20px;">
+  <div style="flex: 1;">
     <h3>🚀 A Bit About Me!</h3>
     <p>I'm passionate about front-end development and love creating interactive and visually appealing web experiences. In my free time, I enjoy exploring new technologies and working on personal projects. My goal is to build intuitive and responsive user interfaces that enhance user experiences and make the web a more enjoyable place.</p>
   </div>
