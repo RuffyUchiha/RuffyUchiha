@@ -15,7 +15,6 @@
 
 ###
 
-###
 
 <h3 align="left">💻 Languages & Tools I Use:</h3>
 <div align="left">
