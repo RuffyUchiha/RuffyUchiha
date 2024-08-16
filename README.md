@@ -40,16 +40,16 @@
 <h3 align="left">✉️ Contact Me!</h3>
 <div align="left">
   <a href="https://discord.com/users/Ruffy66" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" alt="discord logo" width="35" height="35" />
   </a>
   <a href="https://twitter.com/5thyonkoRuffy" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" alt="twitter logo" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="twitter logo" width="35" height="35" />
   </a>
   <a href="https://www.reddit.com/user/RuffyUchiha" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="35" alt="reddit logo" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/reddit.png" alt="reddit logo" width="35" height="35" />
   </a>
   <a href="https://codepen.io/RuffyUchiha" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-%23000000?style=for-the-badge&logo=codepen&logoColor=white" height="35" alt="codepen logo" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" alt="codepen logo" width="35" height="35" />
   </a>
 </div>
 
@@ -60,4 +60,3 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-.
