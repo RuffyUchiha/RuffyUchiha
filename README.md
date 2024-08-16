@@ -45,7 +45,7 @@
   <a href="https://twitter.com/5thyonkoRuffy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
-  <a href="https://www.reddit.com/user/RuffyUchiha" target="_blank">
+  <a href="https://www.reddit.com/user/AMVZeref" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="reddit logo" />
   </a>
   <a href="https://codepen.io/RuffyUchiha" target="_blank">
