@@ -31,17 +31,17 @@
 
 ### ✉️ Contact Me!
 
-<div align="left">
-  <a href="Ruffy66" target="_blank">
+<div align="left" style="text-align: center;">
+  <a href="https://discord.com/users/Ruffy66" target="_blank" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo" />
   </a>
-  <a href="https://www.twitch.tv/ruffy_joyboy" target="_blank">
+  <a href="https://www.twitch.tv/ruffy_joyboy" target="_blank" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo" />
   </a>
-  <a href="https://twitter.com/5thyonkoRuffy" target="_blank">
+  <a href="https://twitter.com/5thyonkoRuffy" target="_blank" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo" />
   </a>
-  <a href="https://codepen.io/RuffyUchiha" target="_blank">
+  <a href="https://codepen.io/RuffyUchiha" target="_blank" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="47" height="35" alt="codepen logo" />
   </a>
 </div>
