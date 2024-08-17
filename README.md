@@ -9,6 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuffyUchiha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo5Zm9xMzZpN2p3NHV3amg1YmEyamxhNng4YmZleno3Ynp2NnVidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MY5TIGA8d0TwXtK1d2/giphy.gif" />
