@@ -45,9 +45,6 @@
   <a href="https://www.twitch.tv/ruffy_joyboy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"/>
   </a>
-  <a href="https://twitter.com/5thyonkoRuffy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"/>
-  </a>
   <a href="https://codepen.io/RuffyUchiha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="47" height="35" alt="codepen logo"/>
   </a>
