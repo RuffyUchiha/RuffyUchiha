@@ -1,7 +1,9 @@
 <br clear="both">
 
 <h2 align="left">Hi 👋! My name is Jeremy and I'm a development enthusiast from Germany.</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RuffyUchiha&theme=dark&hide_border=true&mode=weekly&fire=27B2FF&ring=27B2FF&currStreakNum=27B2FF&currStreakLabel=27B2FF&sideLabels=27B2FF&sideNums=27B2FF&dates=FFFFFF" alt="GitHub Streak" /></a>
+</a>
+</p>
+</a>
 <img align="right" height="150" src="https://i.pinimg.com/736x/1e/f4/93/1ef493f6cf6a876a198ef5dd78632cb8.jpg" />
 
 ###
@@ -23,6 +25,13 @@
 <h2 tabindex="-1" class="heading-element" dir="auto">🐍 My Contributions 🐍</h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
 
+<h2 align="center">🔥 My GitHub Streak 🔥</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=RuffyUchiha&theme=dark&hide_border=true&mode=weekly&fire=27B2FF&ring=27B2FF&currStreakNum=27B2FF&currStreakLabel=27B2FF&sideLabels=27B2FF&sideNums=27B2FF&dates=FFFFFF" alt="GitHub Streak" />
+  </a>
+</p>
 
 ###
 
