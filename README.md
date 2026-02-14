@@ -5,8 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuffyUchiha&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuffyUchiha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuffyUchiha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 
