@@ -1,16 +1,6 @@
 <br clear="both">
 
 <h2 align="left">Hi 👋! My name is Jeremy and I'm a development enthusiast from Germany.</h2>
-
-###
-
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuffyUchiha&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-</div>
-
-
-###
-
 <img align="right" height="150" src="https://i.pinimg.com/736x/1e/f4/93/1ef493f6cf6a876a198ef5dd78632cb8.jpg" />
 
 ###
