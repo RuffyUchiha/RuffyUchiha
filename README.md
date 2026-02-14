@@ -17,7 +17,7 @@
 ###
 
 <h3 align="left">🚀 A Bit About Me!</h3>
-<p align="left">I'm passionate about front-end development and love creating interactive and visually appealing web experiences. In my free time, I enjoy exploring new technologies and working on personal projects.</p>
+<p align="left">I'm passionate about development and love creating interactive and visually appealing web experiences. In my free time, I enjoy exploring new technologies and working on personal projects.</p>
 
 ###
 
@@ -42,8 +42,6 @@
   <a href="Ruffy66" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"/>
   </a>
-  <a href="https://www.twitch.tv/ruffy_joyboy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="47" height="35" alt="twitch logo"/>
   </a>
   <a href="https://codepen.io/RuffyUchiha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="47" height="35" alt="codepen logo"/>
