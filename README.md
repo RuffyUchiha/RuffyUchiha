@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h2 align="left">Hi 👋! My name is Jeremy and I'm a development enthusiast from Germany.</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=RuffyUchiha&theme=dark&hide_border=true&mode=weekly&fire=27B2FF&ring=27B2FF&currStreakNum=27B2FF&currStreakLabel=27B2FF&sideLabels=27B2FF&sideNums=27B2FF&dates=FFFFFF)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RuffyUchiha&theme=dark&hide_border=true&mode=weekly&fire=27B2FF&ring=27B2FF&currStreakNum=27B2FF&currStreakLabel=27B2FF&sideLabels=27B2FF&sideNums=27B2FF&dates=FFFFFF" alt="GitHub Streak" /></a>
 <img align="right" height="150" src="https://i.pinimg.com/736x/1e/f4/93/1ef493f6cf6a876a198ef5dd78632cb8.jpg" />
 
 ###
