@@ -1,7 +1,7 @@
 <br clear="both">
 
 <h2 align="left">Hi 👋! My name is Jeremy and I'm a development enthusiast from Germany.</h2>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=RuffyUchiha&theme=dark&hide_border=true&mode=weekly&fire=27B2FF&ring=27B2FF&currStreakNum=27B2FF&currStreakLabel=27B2FF&sideLabels=27B2FF&sideNums=27B2FF&dates=FFFFFF)](https://git.io/streak-stats)
 <img align="right" height="150" src="https://i.pinimg.com/736x/1e/f4/93/1ef493f6cf6a876a198ef5dd78632cb8.jpg" />
 
 ###
@@ -16,7 +16,7 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=css,html,javascript,php,mysql" /><br>
 <img src="https://skillicons.dev/icons?i=codepen,vscode,visualstudio,windows"/><br>
-<img src="https://skillicons.dev/icons?i=discord,linkedin,gmail,blender"/>
+<img src="https://skillicons.dev/icons?i=discord,linkedin,gmail,blender,ae"/>
 </div>
 
 </div>
