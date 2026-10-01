@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Jeremy and I'm a development enthusiast from Germany.</h2>
+<h2 align="left">Hi 👋! My name is Ruffy and I'm a development enthusiast from Germany.</h2>
 </a>
 </p>
 </a>
